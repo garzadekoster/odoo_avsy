@@ -44,6 +44,7 @@ Make invoice reports look like Finnish standard invoices.
         'report/report_invoice.xml',
         'view/account_invoice.xml'
     ],
+    "summary": "Suomalainen laskupohja",
     "active": False,
     "installable": True,
     "auto_install": False,
