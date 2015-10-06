@@ -22,9 +22,9 @@
 # noinspection PyStatementEffect
 {
     "name": "Finnish Invoice",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Avoin.Systems",
-    "category": "Reports",
+    "category" : "Localization",
     "website": "http://avoin.systems",
     "images": ["static/description/icon.png"],
     "depends": [
@@ -36,7 +36,6 @@ Finnish Invoice
 ===============
 Make invoice reports look like Finnish standard invoices.
 """,
-    "summary": "Sales, Reports",
     "data": [
         'data/common.xml',
         'report/report_layout.xml',
